@@ -1,0 +1,24 @@
+-Index: agregué title - Home
+
+	KEYWORDS: Casa, Inmobiliario, Ventas, Alquiler, Compra, Departamento, Seguridad, Servicios
+
+-Contacto: agregué title - Contacto
+
+	
+	KEYWORDS:Contacto, Teléfono, Mail, Whatsapp, Instagram, Información
+
+-Anuncios: agregué title - Anuncios 
+
+	
+	KEYWORDS:Anuncios, Pileta, Cochera, Ambientes
+
+-Nosotros: agregué title - Nosotros
+
+	
+	KEYWORDS:Fundada, Experiencia, Calidad
+
+-Testimonios: agregué title - Testimonios
+
+	
+	KEYWORDS:Casa, Inmobiliario, Ventas, Alquiler, Compra, Departamento, Seguridad, Servicios, Usuarios, Testimonios, Asesoria
+
